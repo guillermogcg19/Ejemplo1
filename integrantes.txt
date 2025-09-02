@@ -2,7 +2,11 @@ Alvaro Guillermo Carillo Garcia
 German Aurelio Barron Romo
 CONFLICTO ORIGINAL : EDITADO POR GERMAN BARRON
 <<<<<<< HEAD
+<<<<<<< HEAD
 OJALA PEGUE LORENA
 =======
 OJALA NO PEGUE LOREAN
 >>>>>>> 3fcb565 (EDIT EN INTEGRANTES GUILLERMO EN MAIN)
+=======
+OJALA NO PEGUE LOREAN *lo puso memo*
+>>>>>>> 92f7b3d (editado integrantes memo en main)
