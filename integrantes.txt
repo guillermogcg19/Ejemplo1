@@ -3,6 +3,7 @@ German Aurelio Barron Romo
 CONFLICTO ORIGINAL : EDITADO POR GERMAN BARRON
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 OJALA PEGUE LORENA
 =======
 OJALA NO PEGUE LOREAN
@@ -10,3 +11,6 @@ OJALA NO PEGUE LOREAN
 =======
 OJALA NO PEGUE LOREAN *lo puso memo*
 >>>>>>> 92f7b3d (editado integrantes memo en main)
+=======
+OJALA NO PEGUE LOREAN *lo puso memo*
+>>>>>>> 92f7b3dcb1e2b00fde62524c02154b940dc023a9
