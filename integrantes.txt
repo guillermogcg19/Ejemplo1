@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 editadoAlvaro Guillermo Carillo Garcia
 German Aurelio Barron Romo
 CONFLICTO ORIGINAL : EDITADO POR GERMAN BARRON
 OJALA NO PEGUE LOREAN
 =======
 Esta es la lista de integrantes.
+=======
+conflictoooEsta es la lista de integrantes.
+>>>>>>> 82dc13c (cambio en rama nuevo para conflicto2)
 Alvaro Guillermo Carrillo Garcia
 German Aurelio Barron Romo 
 >>>>>>> 528abf3 (modificacion 2)
