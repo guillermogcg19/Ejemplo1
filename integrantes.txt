@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 editadoAlvaro Guillermo Carillo Garcia
 German Aurelio Barron Romo
 CONFLICTO ORIGINAL : EDITADO POR GERMAN BARRON
@@ -12,3 +13,8 @@ conflictoooEsta es la lista de integrantes.
 Alvaro Guillermo Carrillo Garcia
 German Aurelio Barron Romo 
 >>>>>>> 528abf3 (modificacion 2)
+=======
+Esta es la lista de integrantes.
+Alvaro Guillermo Carrillo Garcia
+German Aurelio Barron Romo 
+>>>>>>> 528abf3ccfca382cb2214cc20a196711f30376dc
